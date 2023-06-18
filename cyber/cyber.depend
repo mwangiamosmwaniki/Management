@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683846534 source:c:\users\user\documents\amos\cyber\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
